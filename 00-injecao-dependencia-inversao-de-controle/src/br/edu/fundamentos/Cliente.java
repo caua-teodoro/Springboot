@@ -1,4 +1,4 @@
-package br.edu.fundamentos.alto_aclopamento;
+package br.edu.fundamentos;
 
 public class Cliente {
 
